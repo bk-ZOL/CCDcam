@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CCDCam", "CCDCam\CCDCam.vcxproj", "{A8BC17A0-3095-4D47-B852-5DD1E94CCAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BC17A0-3095-4D47-B852-5DD1E94CCAAC}.Debug|x64.ActiveCfg = Debug|x64
+		{A8BC17A0-3095-4D47-B852-5DD1E94CCAAC}.Debug|x64.Build.0 = Debug|x64
+		{A8BC17A0-3095-4D47-B852-5DD1E94CCAAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8BC17A0-3095-4D47-B852-5DD1E94CCAAC}.Debug|x86.Build.0 = Debug|Win32
+		{A8BC17A0-3095-4D47-B852-5DD1E94CCAAC}.Release|x64.ActiveCfg = Release|x64
+		{A8BC17A0-3095-4D47-B852-5DD1E94CCAAC}.Release|x64.Build.0 = Release|x64
+		{A8BC17A0-3095-4D47-B852-5DD1E94CCAAC}.Release|x86.ActiveCfg = Release|Win32
+		{A8BC17A0-3095-4D47-B852-5DD1E94CCAAC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEC5D22E-93C4-456C-A5CD-0C13BA838A63}
+	EndGlobalSection
+EndGlobal
